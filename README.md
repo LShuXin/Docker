@@ -1,4 +1,5 @@
-# Docker 国内镜像地创建或修改 /etc/docker/daemon.json 文件，修改为如下形式
+# Docker 国内镜像地址
+创建或修改 /etc/docker/daemon.json 文件，修改为如下形式
 ```
 {
   "registry-mirrors": [
